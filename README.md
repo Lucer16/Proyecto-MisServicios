@@ -4,10 +4,7 @@
 
 ## 🎨 Capturas de Pantalla
 
-![Captura de Pantalla 1](/ruta/a/tu/imagen1.png)
-![Captura de Pantalla 2](/ruta/a/tu/imagen2.png)
-
-*(Reemplaza las rutas de las imágenes con las capturas de pantalla reales de tu proyecto)*
+![Captura de Pantalla 1](Mis-servicios.png)
 
 ## 🛠️ Tecnologías Utilizadas
 
