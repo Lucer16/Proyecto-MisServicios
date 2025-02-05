@@ -24,3 +24,9 @@
 - **Interfaz Limpia y Moderna**: Diseño minimalista y enfocado en el contenido.
 - **Interactividad**: Efectos dinámicos y transiciones suaves para mejorar la experiencia del usuario.
 - **Tipografía Elegante**: Uso de la fuente **Outfit** para un aspecto moderno y profesional.
+
+## 🧑‍💻 Cómo Ejecutar el Proyecto
+
+1. **Clona el repositorio**:
+   ```bash
+   git clone (https://github.com/Lucer16/Proyecto-MisServicios)
